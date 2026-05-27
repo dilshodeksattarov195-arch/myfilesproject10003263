@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedetch",
+        "uuid": 27347203,
+        "checksum": "no3o8o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
